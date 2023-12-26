@@ -1,1 +1,1 @@
-# Tạo SDK Cross Compile cho Raspberry Pi 3B
+# QT 5.15 Raspberry pi 3b
